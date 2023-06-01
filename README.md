@@ -1,8 +1,18 @@
 - 👋 Hi, I’m @Intiuz
+
+####################################################################################################################################################
+
 - 👀 I’m interested in gaming and music (production(Hardstyle))
-- 🌱 I’m currently learning Python coding and InfoSec
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+      https://on.soundcloud.com/8zVZF
+      
+####################################################################################################################################################
+
+- 🌱 I’m currently learning Python coding and IT Security
+
+####################################################################################################################################################
+
+- 📫 How to reach me: 
+  LinkedIn: https://www.linkedin.com/in/andreas-bueng-a8532521a
 
 <!---
 Intiuz/Intiuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
